@@ -134,7 +134,7 @@
     "@types/dlv": "^1.1.2",
     "@types/pako": "^1.0.2",
     "@types/rimraf": "^3.0.1",
-    "aegir": "^36.0.1",
+    "aegir": "git+https://github.com/vigasdeep/aegir.git",
     "delay": "^5.0.0",
     "go-ipfs": "0.11.0",
     "interface-blockstore-tests": "^2.0.1",
